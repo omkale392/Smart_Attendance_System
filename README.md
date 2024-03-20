@@ -9,8 +9,8 @@ Before running this project, ensure that you have the following installed:
 - OpenCV library
 
 You can install OpenCV using pip:
-```shell
-pip install opencv-python
+'''
+pip install opencv-python'''
 
 # Usage
 To interact with the project, use the following commands:
